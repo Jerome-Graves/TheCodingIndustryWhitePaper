@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (MiKTeX 22.3) (format=lualatex 2022.7.16)  16 JUL 2022 17:58
+This is LuaHBTeX, Version 1.15.0 (MiKTeX 22.3) (format=lualatex 2022.7.16)  16 JUL 2022 18:13
  restricted system commands enabled.
  file:line:error style messages enabled.
 **d:/Documents/GitHub/The-Coding-Industry--White-Paper-/report.tex
@@ -2141,9 +2141,9 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
  (./chapter1.tex
 Chapter 1.
 LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/n' will be
-(Font)              scaled to size 16.41594pt on input line 30.
+(Font)              scaled to size 16.41594pt on input line 13.
 LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/n' will be
-(Font)              scaled to size 13.67995pt on input line 34.
+(Font)              scaled to size 13.67995pt on input line 17.
 [4
 
 
@@ -2158,13 +2158,7 @@ Chapter 2.
 
 
 
-]
-Overfull \hbox (36.07881pt too wide) in paragraph at lines 37--38
-[]\TU/OpenSans(0)/m/n/12 The back-ground color is set by back-ground-color and 
-it is cur-rently founderblue!20.
- []
-
-) [7]
+]) [7]
 \openout2 = chapter3.aux
  (./chapter3.tex
 Chapter 3.
@@ -2208,20 +2202,20 @@ Package logreq Info: Writing requests to 'report.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 40294 strings out of 477785
+ 40155 strings out of 477785
  125062,1977958 words of node,token memory allocated
  1565 words of node memory still in use:
    30 hlist, 2 vlist, 14 rule, 2 glue, 4 kern, 1 glyph, 81 attribute, 108 glue_s
 pec, 81 attribute_list, 4 write, 24 pdf_literal, 24 pdf_colorstack nodes
-   avail lists: 1:3,2:919,3:919,4:96,5:173,6:59,7:4580,8:41,9:423,10:8,11:332
- 59462 multiletter control sequences out of 65536+600000
- 65 fonts using 5810431 bytes
- 91i,11n,109p,800b,1002s stack positions out of 10000i,1000n,20000p,200000b,80000s
+   avail lists: 1:3,2:902,3:919,4:74,5:173,6:59,7:4580,8:41,9:423,10:8,11:332
+ 59323 multiletter control sequences out of 65536+600000
+ 63 fonts using 5695791 bytes
+ 91i,11n,109p,800b,970s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <//?/c:/users/jagz1/appdata/local/programs/miktex/fonts/truetype/ascender/opensa
 ns/opensans-regular.ttf><//?/c:/users/jagz1/appdata/local/programs/miktex/fonts/
 truetype/ascender/opensans/opensans-bold.ttf><./UCBerkeleyOSBold.otf><./UCBerkel
 eyOS.otf>
-Output written on report.pdf (13 pages, 296972 bytes).
+Output written on report.pdf (13 pages, 292301 bytes).
 
 PDF statistics: 229 PDF objects out of 1000 (max. 8388607)
  33 named destinations out of 1000 (max. 131072)
